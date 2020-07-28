@@ -1,0 +1,7 @@
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\obj\Debug\MovieProject.csprojAssemblyReference.cache
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\bin\Debug\MovieProject.exe.config
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\bin\Debug\MovieProject.exe
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\bin\Debug\MovieProject.pdb
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\obj\Debug\MovieProject.exe
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\MovieProject\obj\Debug\MovieProject.pdb

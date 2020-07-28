@@ -1,0 +1,7 @@
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\bin\Debug\OOPSExampleProject.exe.config
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\bin\Debug\OOPSExampleProject.exe
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\bin\Debug\OOPSExampleProject.pdb
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\obj\Debug\OOPSExampleProject.csprojAssemblyReference.cache
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\obj\Debug\OOPSExampleProject.csproj.CoreCompileInputs.cache
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\obj\Debug\OOPSExampleProject.exe
+E:\LTI\LTI Training\C#\Day 2\OOPSExampleSolution\OOPSExampleProject\obj\Debug\OOPSExampleProject.pdb
